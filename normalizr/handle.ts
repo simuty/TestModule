@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2020-04-27 17:22:25
- * @LastEditTime: 2020-04-28 10:54:21
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /find-demo/testTip/normalizr/handle.js
- */
 import { schema } from 'normalizr';
 /* product Schema */
 const product = new schema.Entity('products');
